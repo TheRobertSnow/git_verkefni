@@ -20,3 +20,7 @@ Git spurningar og svör
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 hjálpar liði að leysa breytingar vandamál með því að fylgjast með sérhverjum einstakling og breytingu með hvert framlag og hjálpa að koma í veg fyrir samhliða vinnu frá conflicti. Breytingar gerðar á einum hluta hugbúnaðar geta vera ósamrýmanlegar við þær sem gerðar af öðru framkvæmdaraðila vinna á sama tíma. Þetta vandamál ætti að vera uppgötvað og leysa á skipulegan hátt án þess að blokka vinnu hjá restinni af liðinu
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+Auðveldir samvinnu hjá hópum af forriturum og einfaldar vinnunnuna.
+
