@@ -12,3 +12,8 @@ Git spurningar og svör
 -git status: Sýnir filea sem er búið að breyta og þá sem á eftir að adda eða commita
 -git diff: Sýnir breytingar milli working tree og index eða tree, breytingar milli index og tré, breytingar milii tveggja tráa eða breytingar milli tveggja filea á disk
 -git checkout: Updatear filea í working tree til að passa við version í index eða ákveðnu tré
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+-git diff: Sýnir breytingar milli working tree og index eða tree, breytingar milli index og tré, breytingar milii tveggja tráa eða breytingar milli tveggja filea á disk
+-git diff --staged: Sýnir aðeins breytingar á fileum á staged svæðinu
+-git diff commit1 commit2: Þetta er til að skoða breytingarnar á milli tveggja handahófskennt commit
