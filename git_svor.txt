@@ -6,3 +6,9 @@ Git spurningar og svör
 -pwd: Skrifar út working directory
 -mkdir: Notað til að búa til directory
 
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+-git clone: Gerir annað copy af repositoryinu, gott til að eiga backup ef eitthvað fer úrskeiðis
+-git log: Sýnir commit logs
+-git status: Sýnir filea sem er búið að breyta og þá sem á eftir að adda eða commita
+-git diff: Sýnir breytingar milli working tree og index eða tree, breytingar milli index og tré, breytingar milii tveggja tráa eða breytingar milli tveggja filea á disk
+-git checkout: Updatear filea í working tree til að passa við version í index eða ákveðnu tré
