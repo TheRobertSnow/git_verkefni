@@ -28,3 +28,8 @@ Auðveldir samvinnu hjá hópum af forriturum og einfaldar vinnunnuna.
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 Alltaf þegar maður er kominn með nýjan kóða sem maður veit að virkar.
 
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+Working directory er skrá með uppruna skrám undir git control
+Staging er skref fyrir commit skrefið í git. Það er commit í git sem er flutt í tveimur skrefum: staging og actual commit
+Git geymir upplýsingar í gagnagrunni sem kallast repository. Git repository inniheldur meðal annars eftirfarandi: set of commit objects, set of references to commit objects kallaðir heads
+
