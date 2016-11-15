@@ -33,3 +33,5 @@ Working directory er skrá með uppruna skrám undir git control
 Staging er skref fyrir commit skrefið í git. Það er commit í git sem er flutt í tveimur skrefum: staging og actual commit
 Git geymir upplýsingar í gagnagrunni sem kallast repository. Git repository inniheldur meðal annars eftirfarandi: set of commit objects, set of references to commit objects kallaðir heads
 
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+Til þess að prófa sig áfram með eitthvað nýtt
