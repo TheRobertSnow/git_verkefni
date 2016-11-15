@@ -17,3 +17,6 @@ Git spurningar og svör
 -git diff: Sýnir breytingar milli working tree og index eða tree, breytingar milli index og tré, breytingar milii tveggja tráa eða breytingar milli tveggja filea á disk
 -git diff --staged: Sýnir aðeins breytingar á fileum á staged svæðinu
 -git diff commit1 commit2: Þetta er til að skoða breytingarnar á milli tveggja handahófskennt commit
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+hjálpar liði að leysa breytingar vandamál með því að fylgjast með sérhverjum einstakling og breytingu með hvert framlag og hjálpa að koma í veg fyrir samhliða vinnu frá conflicti. Breytingar gerðar á einum hluta hugbúnaðar geta vera ósamrýmanlegar við þær sem gerðar af öðru framkvæmdaraðila vinna á sama tíma. Þetta vandamál ætti að vera uppgötvað og leysa á skipulegan hátt án þess að blokka vinnu hjá restinni af liðinu
