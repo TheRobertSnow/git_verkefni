@@ -1,1 +1,8 @@
 Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+-cd: Notað til þess að breyta current directoryinu
+-cd ~: Fer til baka í fyrra current directoryið og skrifar locationið á því
+-ls: Sýnir lista af ákveðnu
+-pwd: Skrifar út working directory
+-mkdir: Notað til að búa til directory
+
