@@ -24,3 +24,7 @@ hjálpar liði að leysa breytingar vandamál með því að fylgjast með sérh
 5.	Hverjir eru helstu kostir við að nota GIT?
 Auðveldir samvinnu hjá hópum af forriturum og einfaldar vinnunnuna.
 
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+Alltaf þegar maður er kominn með nýjan kóða sem maður veit að virkar.
+
