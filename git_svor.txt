@@ -35,3 +35,4 @@ Git geymir upplýsingar í gagnagrunni sem kallast repository. Git repository in
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 Til þess að prófa sig áfram með eitthvað nýtt
+Robert
